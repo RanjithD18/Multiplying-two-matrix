@@ -29,7 +29,7 @@ print("Product of two arrays is:",result)
 ~~~
 
 ## OUTPUT:
-![output]()
+![output](https://github.com/RanjithD18/Multiplying-two-matrix/blob/main/Screenshot%20(11).png)
 
 ## RESULT:
 
