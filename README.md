@@ -41,4 +41,4 @@ print("Product of two arrays is:",result)
 ![output](https://github.com/RanjithD18/Multiplying-two-matrix/blob/main/Screenshot%20(11).png)
 
 ## RESULT:
-
+Thus the program is written to Multiplying two matrix
